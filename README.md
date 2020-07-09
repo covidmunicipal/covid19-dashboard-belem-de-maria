@@ -51,7 +51,7 @@ Primeiro, altere o atributo `version` no arquivo `package.json` com o novo núme
 
 Depois, realize um pull request para a branch `release`.
 
-Quando o pull request for aceito, o deploy será feito automaticamente para o projeto `covid19-municipal` (irara.covidmunicipal.live) no Firebase.
+Quando o pull request for aceito, o deploy será feito automaticamente para o projeto `covid19-municipal` (belemdemaria.covidmunicipal.live) no Firebase.
 
 ## Sobre
 

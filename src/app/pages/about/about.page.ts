@@ -16,7 +16,7 @@ export class AboutPage implements OnInit {
     },
     {
       question: 'Quais são as fontes dos dados utilizados?',
-      answer: 'Atualmente, as redes sociais da Prefeitura Municipal de Bonfinópolis de Minas e os dados disponibilizados pelo projeto <a href="https://brasil.io">Brasil.IO</a>.'
+      answer: 'Atualmente, as redes sociais da Prefeitura Municipal de Belém de Maria e os dados disponibilizados pelo projeto <a href="https://brasil.io">Brasil.IO</a>.'
     },
     {
       question: 'Por que existem diferenças entre os valores do site com relação à de outras fontes?',
@@ -28,7 +28,7 @@ export class AboutPage implements OnInit {
     },
     {
       question: 'Quem são vocês?',
-      answer: 'Este projeto é mantido por Guilherme Afonso, bacharelando em Ciência da Computação na Universidade Federal de Pernambuco (UFPE) além de contribuidores que podem ser visualizados na nossa página do GitHub.'
+      answer: 'Este projeto é mantido por Ladson Gomes, bacharelando em Engenharia da Computação na Universidade Federal de Pernambuco (UFPE) além de contribuidores que podem ser visualizados na nossa página do GitHub.'
     },
     {
       question: 'Por que vocês criaram este projeto já que não vão ganhar um centavo com ele?',

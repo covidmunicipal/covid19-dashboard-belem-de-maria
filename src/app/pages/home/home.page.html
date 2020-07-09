@@ -183,11 +183,11 @@
             <ion-col size="3" *ngIf="!brasilIoData.lastEntryResult">
               <ion-skeleton-text *ngIf="!brasilIoData.lastEntryResult" animated class="seven-tenths-width height-large"></ion-skeleton-text>
             </ion-col>
-            <ion-col size="9"><p class="ion-no-margin"><span class="font-bold font-uppercase-title">Casos notificados à SES-MG </span><ion-icon *ngIf="brasilIoData.lastEntryResult" tabindex="0" class="tooltip-icon" id="notified-tooltip" aria-label="Mais informações" color="medium" name="information-circle"></ion-icon></p>
+            <ion-col size="9"><p class="ion-no-margin"><span class="font-bold font-uppercase-title">Casos notificados à SES-PE </span><ion-icon *ngIf="brasilIoData.lastEntryResult" tabindex="0" class="tooltip-icon" id="notified-tooltip" aria-label="Mais informações" color="medium" name="information-circle"></ion-icon></p>
             </ion-col>
           </ion-row>
           <ion-row class="ion-align-items-center ion-margin-top">
-            <ion-col size="3" *ngIf="rtdbData.lastTotalDayEntry"><p class="font-bold font-medium font-tabular-number ion-no-margin">{{ rtdbData.lastTotalDayEntry.casos_monitorados }}</p></ion-col>
+            <ion-col size="3" *ngIf="rtdbData.lastTotalDayEntry"><p class="font-bold font-medium font-tabular-number ion-no-margin">{{ rtdbData.lastTotalDayEntry.casos_monitorados.total }}</p></ion-col>
             <ion-col size="3" *ngIf="!rtdbData.lastTotalDayEntry">
               <ion-skeleton-text *ngIf="!rtdbData.lastTotalDayEntry" animated class="seven-tenths-width height-large"></ion-skeleton-text>
             </ion-col>
