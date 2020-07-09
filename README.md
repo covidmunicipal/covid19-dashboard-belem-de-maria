@@ -14,7 +14,7 @@ Sinta-se livre para contribuir com o projeto e adaptá-lo para outros propósito
 
 ## Download de dados
 
-Se está em busca dos dados coletados sobre o Coronavírus em Belém de Maria, acesse a [planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1fveoSvn9oN5kJ-HxGUNffkxQ0F9Z5STlh7p3VNiVuOY). Você também pode obter um arquivo `.json` na [seção Sobre da plataforma de acompanhamento](https://belemdemaria.covidmunicipal.live/about), selecionando a opção _Acesse o banco de dados_. Os dados da Secretaria de Saúde de Pernambuco (SES-PE) podem ser visualizados no [Brasil.IO](https://brasil.io/covid19/PE/).
+Se está em busca dos dados coletados sobre o Coronavírus em Belém de Maria, acesse a [planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1YgPehc_9oGk3ng2TtkiyMj6dwj3YuLe2zrTT_flzNpo). Você também pode obter um arquivo `.json` na [seção Sobre da plataforma de acompanhamento](https://belemdemaria.covidmunicipal.live/about), selecionando a opção _Acesse o banco de dados_. Os dados da Secretaria de Saúde de Pernambuco (SES-PE) podem ser visualizados no [Brasil.IO](https://brasil.io/covid19/PE/).
 
 ## Configurando
 
