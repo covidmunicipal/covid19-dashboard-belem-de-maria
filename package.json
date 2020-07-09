@@ -1,8 +1,8 @@
 {
-  "name": "covid19-dashboard-bonfinopolis-de-minas",
+  "name": "covid19-dashboard-belem-de-maria",
   "version": "1.0.1",
-  "author": "Guilherme Afonso",
-  "homepage": "https://bonfinopolismg.covidmunicipal.live/",
+  "author": "Ladson Gomes",
+  "homepage": "https://belemdemaria.covidmunicipal.live/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
