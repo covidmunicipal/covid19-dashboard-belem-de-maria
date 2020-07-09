@@ -1,10 +1,10 @@
 # ![COVID-19 Municipal](src/assets/logos/covid19-municipal.svg)
 
-![Build status](https://img.shields.io/github/workflow/status/covidmunicipal/covid19-dashboard-bonfinopolis-de-minas/build)
-![Release version](https://img.shields.io/github/v/release/covidmunicipal/covid19-dashboard-bonfinopolis-de-minas)
-![Website status](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fbonfinopolismg.covidmunicipal.live)
+![Build status](https://img.shields.io/github/workflow/status/covidmunicipal/covid19-dashboard-belem-de-maria/build)
+![Release version](https://img.shields.io/github/v/release/covidmunicipal/covid19-dashboard-belem-de-maria)
+![Website status](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fbelemdemaria.covidmunicipal.live)
 
-Plataforma para acompanhamento do novo Coronavírus (COVID-19) na cidade de Bonfinópolis de Minas/MG.
+Plataforma para acompanhamento do novo Coronavírus (COVID-19) na cidade de Belém de Maria/PE.
 
 _Este repositório agora contém apenas o dashboard. Se está em busca dos outros projetos que estavam disponíveis anteriormente aqui, visite a [página do COVID-19 Municipal no GitHub](https://github.com/covidmunicipal)._
 
@@ -14,7 +14,7 @@ Sinta-se livre para contribuir com o projeto e adaptá-lo para outros propósito
 
 ## Download de dados
 
-Se está em busca dos dados coletados sobre o Coronavírus em Bonfinópolis, acesse a [planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1fveoSvn9oN5kJ-HxGUNffkxQ0F9Z5STlh7p3VNiVuOY). Você também pode obter um arquivo `.json` na [seção Sobre da plataforma de acompanhamento](https://bonfinopolismg.covidmunicipal.live/about), selecionando a opção _Acesse o banco de dados_. Os dados da Secretaria de Saúde de Minas Gerais (SES-MG) podem ser visualizados no [Brasil.IO](https://brasil.io/covid19/MG/).
+Se está em busca dos dados coletados sobre o Coronavírus em Belém de Maria, acesse a [planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1fveoSvn9oN5kJ-HxGUNffkxQ0F9Z5STlh7p3VNiVuOY). Você também pode obter um arquivo `.json` na [seção Sobre da plataforma de acompanhamento](https://belemdemaria.covidmunicipal.live/about), selecionando a opção _Acesse o banco de dados_. Os dados da Secretaria de Saúde de Pernambuco (SES-PE) podem ser visualizados no [Brasil.IO](https://brasil.io/covid19/PE/).
 
 ## Configurando
 
@@ -55,6 +55,6 @@ Quando o pull request for aceito, o deploy será feito automaticamente para o pr
 
 ## Sobre
 
-Este projeto é mantido com muito carinho por [Guilherme Afonso](https://github.com/guilhermeasper) e [contribuidores](https://github.com/orgs/covidmunicipal/people).
+Este projeto é mantido com muito carinho por [Ladson Gomes](https://github.com/ladsong) e [contribuidores](https://github.com/orgs/covidmunicipal/people).
 
 O projeto foi inspirado no [covid19india](https://github.com/covid19india) e no [covid19japan](https://github.com/reustle/covid19japan). Além dos dados coletados pelo projeto, também utilizamos os dados disponibilizados pelo projeto [Brasil.IO](https://brasil.io/).
