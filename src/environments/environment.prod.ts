@@ -4,16 +4,16 @@ export const environment = {
     buildVersion: version,
     production: true,
     firebase: {
-      apiKey: "AIzaSyBsuUsm7wT93b4RvJbBaM4jCGBlWiHz_Nw",
-      authDomain: "radar-covid-bonfinopolis.firebaseapp.com",
-      databaseURL: "https://radar-covid-bonfinopolis.firebaseio.com",
-      projectId: "radar-covid-bonfinopolis",
-      storageBucket: "radar-covid-bonfinopolis.appspot.com",
-      messagingSenderId: "974807591803",
-      appId: "1:974807591803:web:f2e33df61538556d94ebde",
-      measurementId: "G-G6Y6XXZ9W1"
+      apiKey: "AIzaSyARoVxzzbVchKIYNCQXOqryQ8ncRQpTLVE",
+      authDomain: "radar-covid-belem-de-maria.firebaseapp.com",
+      databaseURL: "https://radar-covid-belem-de-maria.firebaseio.com",
+      projectId: "radar-covid-belem-de-maria",
+      storageBucket: "radar-covid-belem-de-maria.appspot.com",
+      messagingSenderId: "786204113804",
+      appId: "1:786204113804:web:29c5addf463cb3e08d74a9",
+      measurementId: "G-XW7TRKZ84D"
     },
-    spreadsheetId: '1fveoSvn9oN5kJ-HxGUNffkxQ0F9Z5STlh7p3VNiVuOY',
-    appName: 'Radar Coronavírus Bonfinópolis de Minas',
-    targetLocation: 'Bonfinópolis de Minas'
+    spreadsheetId: '1YgPehc_9oGk3ng2TtkiyMj6dwj3YuLe2zrTT_flzNpo',
+    appName: 'Radar Coronavírus Belém de Maria',
+    targetLocation: 'Belém de Maria'
   };
